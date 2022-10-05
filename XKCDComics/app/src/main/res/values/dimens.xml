@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="image_padding">8dp</dimen>
+    <dimen name="image_height">60dp</dimen>
+    <dimen name="comic_height">300dp</dimen>
+</resources>
